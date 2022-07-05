@@ -81,6 +81,12 @@ Microsoft)
 Run the command:
 
 ```shell
+cd backend/
+npm install
+
+cd frontend/
+npm install
+
 docker-compose up
 # -d - to run in the background
 # --build - for reassembly of containers
@@ -118,3 +124,5 @@ yarn start
 npm install
 npm run start
 ```
+
+![img.png](img.png)
